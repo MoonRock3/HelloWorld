@@ -33,6 +33,9 @@
     <Content Include="Add.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Minus.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
